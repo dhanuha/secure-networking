@@ -26,5 +26,5 @@ This document serves as a comprehensive project report demonstrating secure netw
   - Proposed countermeasures to mitigate vulnerabilities, including encryption, multi-factor authentication, and strict firewall rules.
   - Emphasis on ethical network usage, responsible digital practices, and data privacy.
 
-**Access the document:**  
-[Download the Project Report (PDF)](./DhanunjaiSaiKumar-33575630-FIT3037-Assignment%20(2).pdf)
+**Detailed document:**  
+[access this file for a detailed projectreport (PDF)](.securenetworking.pdf)
