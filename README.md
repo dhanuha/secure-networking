@@ -27,4 +27,4 @@ This document serves as a comprehensive project report demonstrating secure netw
   - Emphasis on ethical network usage, responsible digital practices, and data privacy.
 
 **Detailed document:**  
-[access this file for a detailed projectreport (PDF)](.securenetworking.pdf)
+[access this file for a detailed projectreport (PDF)](securenetworking.pdf)
